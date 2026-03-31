@@ -20,18 +20,6 @@
 
 ---
 
-## 🧭 System Philosophy
-
-```txt
-1. Build things that matter
-2. Optimize relentlessly
-3. Prefer clarity over complexity
-4. Measure everything
-5. Stay consistent
-```
-
----
-
 ## ⚙️ Active Systems
 
 <div align="center">
