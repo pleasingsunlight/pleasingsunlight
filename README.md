@@ -110,7 +110,7 @@ int main() {
 
 [![GitHub](https://img.shields.io/badge/GitHub-pleasingsunlight-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pleasingsunlight)
 [![Email](https://img.shields.io/badge/Email-%234a8fd4.svg?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kumarpriyanshu2oo64@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/pleasingsunlight/)
+<!--[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/pleasingsunlight/) -->
 [![Instagram](https://img.shields.io/badge/Instagram-%237850dc.svg?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/priyanxu.exe)
 
 </div>
